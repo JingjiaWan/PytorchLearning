@@ -1,0 +1,15 @@
+1. 此文件主要是用于pytorch入门，参考的是pytorch入门官方教程：https://pytorch.org/tutorials/beginner/basics/intro.html
+各文件查看顺序以及大体内容为：
+1）Tensor：Pytorch 指定输入输出数据形式
+2）Datasets & DataLoaders：用于加载数据
+3）Transforms：数据不会总是符合网络要求的数据输入形式，Transforms用来修改数据形式
+4）Build the Neutal Network：搭建神经网络模型结构
+5）Automatic Differentiation：Pytorch中自动计算梯度
+6）Optimizing Model Parameters：设置超参数，优化器等开始训练网络
+7）Save and Load the Model：保存训练好的网络参数或模型
+
+
+当然 Pytorch 教程中还有一些其他好用的东西，可以进一步学习：https://pytorch.org/tutorials/
+例如：Pytorch官方总结的搭建网络需要的东西（全面，用来查漏补缺入门教程）：https://pytorch.org/tutorials/beginner/ptcheat.html
+有一些搭建好的网络可以跑一跑：https://pytorch.org/examples/?utm_source=examples&utm_medium=examples-landing
+Pytorch教程官方github：https://github.com/pytorch/tutorials
